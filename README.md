@@ -13,5 +13,5 @@ All you need to run your cluster is having Docker installed and follow Steps on 
 ### 6. Go to `Exec` tab
 ![alt text](image-1.png)
 ### 7. At this point you can edit your `task.py` code to choose what you want to submit to cluster process
-### 8. Run `/opt/bitnami/spark/bin/spark-submit /opt/spark-app/script.py`
+### 8. Run `/opt/bitnami/spark/bin/spark-submit /opt/spark-app/task.py`
  Now you should see output on Exec tab from docker.
